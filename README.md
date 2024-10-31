@@ -21,3 +21,6 @@ price: Nightly rental price
 room_type: Type of accommodation (e.g., entire home, private room)
 reviews_per_month: Average monthly reviews for the listing
 availability_365: Number of available days in the year
+
+![Library_project](https://github.com/kumawatmanish05/AirBnB-_Data_Analysis/blob/main/Airbnb.jpg)
+
